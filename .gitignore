@@ -1,0 +1,5 @@
+.env
+.venv/
+result.csv
+tire_search.py
+web_app.py
