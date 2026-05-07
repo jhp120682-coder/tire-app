@@ -164,4 +164,4 @@ with gr.Blocks(title="타이어 최저가 검색기") as demo:
 
 
 if __name__ == "__main__":
-    demo.launch()
+    demo.launch(ssr_mode=False)
